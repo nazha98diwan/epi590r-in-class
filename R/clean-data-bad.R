@@ -1,3 +1,8 @@
+
+### Install Packages
+
+install.packages("tidyverse")
+
 nlsy_cols <- c("glasses", "eyesight", "sleep_wkdy", "sleep_wknd",
 							 "id", "nsibs", "samp", "race_eth", "sex", "region",
 							 "income", "res_1980", "res_2002", "age_bir")
